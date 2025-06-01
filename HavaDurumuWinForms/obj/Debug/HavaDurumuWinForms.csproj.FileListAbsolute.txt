@@ -1,0 +1,13 @@
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.csproj.AssemblyReference.cache
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.Form1.resources
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.csproj.GenerateResource.cache
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\bin\Debug\HavaDurumuWinForms.exe.config
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\bin\Debug\HavaDurumuWinForms.exe
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\bin\Debug\HavaDurumuWinForms.pdb
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.Properties.Resources.resources
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDuru.BB348292.Up2Date
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.exe
+C:\Users\ceyda\OneDrive\Desktop\HavaDurmuWinForms\HavaDurumuWinForms\obj\Debug\HavaDurumuWinForms.pdb
